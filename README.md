@@ -1,3 +1,3 @@
 # Atminties_zaidimas
-Live Demo 
+Live  
 https://ilonarcode.github.io/atminties_zaidimas/
