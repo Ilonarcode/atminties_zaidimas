@@ -1,0 +1,1 @@
+# atminties_zaidimas
